@@ -2,13 +2,6 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanakorn-priyaudom-274806230/) 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=tnknkt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tnknkt&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tnknkt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔨 Languages & Frameworks & Skills ⭐️:
-
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -38,8 +31,12 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=tnknkt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tnknkt&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tnknkt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+## 🔨 Languages & Frameworks & Skills ⭐️:
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=tnknkt&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
